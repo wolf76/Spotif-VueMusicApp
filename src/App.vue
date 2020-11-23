@@ -1,7 +1,7 @@
 <template>
 	<div id="app">
 		<header>
-			<h1>Spotif</h1>
+			<h1>Spotif App</h1>
 		</header>
 		<main>
 			<section class="player">
